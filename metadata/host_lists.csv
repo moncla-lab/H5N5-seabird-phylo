@@ -7,14 +7,17 @@ Bald_Eagle,wild_avian,Accipitriformes,bdpr
 Barn_Owl,wild_avian,Strigiformes,bdpr
 Black_Headed_Gull,wild_avian,Charadriiformes,seab
 black_vulture,wild_avian,Accipitriformes,scav
+Black_vulture,wild_avian,Accipitriformes,scav
 Black-headed_Gull,wild_avian,Charadriiformes,seab
 Black-Legged_Kittiwake,wild_avian,Charadriiformes,seab
 Black-legged_Kittiwake,wild_avian,Charadriiformes,seab
 bufflehead,wild_avian,Anseriformes,gds
 cat,nonhuman_mammal,NaN,mammal
 Cat,nonhuman_mammal,NaN,mammal
+carrion_crow,wild_avian,Passeriformes,scav
 Chicken,domestic_avian,NaN,grdbd
 Common Raven,wild_avian,Passeriformes,scav
+Common_Raven,wild_avian,Passeriformes,scav
 Common_Buzzard,wild_avian,Accipitriformes,scav
 common_buzzard,wild_avian,Accipitriformes,scav
 Common_buzzard,wild_avian,Accipitriformes,scav
@@ -65,6 +68,7 @@ Northern_goshawk,wild_avian,Accipitriformes,bdpr
 Otter,nonhuman_mammal,NaN,mammal
 Pheasant,domestic_avian,NaN,grdbd
 Pine_Marten,nonhuman_mammal,NaN,mammal
+polar_bear,nonhuman_mammal,NaN,mammal
 Raccoon,nonhuman_mammal,NaN,mammal
 Raven,wild_avian,Passeriformes,scav
 Red_Fox,nonhuman_mammal,NaN,mammal
@@ -72,12 +76,14 @@ Red_fox,nonhuman_mammal,NaN,mammal
 Red_Kite,wild_avian,Accipitriformes,bdpr
 red_kite,wild_avian,Accipitriformes,bdpr
 Red-breasted Merganser,wild_avian,Anseriformes,gds
+Red-breasted_Merganser,wild_avian,Anseriformes,gds
 Red-Tailed_Hawk,wild_avian,Accipitriformes,bdpr
 red-tailed_hawk,wild_avian,Accipitriformes,bdpr
 Ring-billed_Gull,wild_avian,Charadriiformes,seab
 Ring-Tailed_Hawk,wild_avian,Accipitriformes,bdpr
 Ringed_Seal,nonhuman_mammal,NaN,mammal
 Sand_piper,wild_avian,Charadriiformes,seab
+Sanderling,wild_avian,Charadriiformes,seab
 Seal,nonhuman_mammal,NaN,mammal
 shelduck,wild_avian,Anseriformes,gds
 Sparrowhawk,wild_avian,Accipitriformes,bdpr

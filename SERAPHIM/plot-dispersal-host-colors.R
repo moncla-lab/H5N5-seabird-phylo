@@ -1,5 +1,5 @@
 # Set directory
-setwd("./")
+setwd("/Users/claramal/Desktop/Moncla_Lab/H5N5-seabird-phylo/SERAPHIM/")
 getwd()
 
 # Load packages
@@ -16,7 +16,7 @@ library(dplyr)
 # Step 1 - set trees directory (this assumes that you have already extracted information for the posterior distribution)
 # localTreesDirectory = "./Extracted_trees" # You don't have a distribution of trees for this, so you shouldn't need this line
 # nberOfTreesToSample = 96 # See above comment
-mostRecentSamplingDatum = 2025.8575342465754
+mostRecentSamplingDatum = 2026.0520547945205
 
 # Step 2 - extract spatio-temporal information from whole MCC tree
 # Use the CSV you made yourself, with host information included
