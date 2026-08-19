@@ -1,112 +1,112 @@
-,Unnamed: 0,full_location,continent,country,state/province,county/town,municipality,discrete-phylo,new-discrete-phylo,latitude,longitude
-0,0,North America / Canada / Nova Scotia / Country Island,North America,Canada,Nova Scotia,Country Island,,east-canada,east-canada,45.1015,-61.54304
-1,1,Europe / Norway / Sor-Trondelag Fylke / Froya,Europe,Norway,Sor-Trondelag Fylke,Froya,,europe,europe,63.990556,12.307778
-2,2,North America / Canada / Ontario / Hawkestone,North America,Canada,Ontario,Hawkestone,,east-canada,east-canada,44.50049,-79.47048
-3,3,Europe / Norway / Finnmark Fylke / Vardo,Europe,Norway,Finnmark Fylke,Vardo,,europe,europe,63.990556,12.307778
-4,4,North America / United States / Massachusetts / Eastham,North America,United States,Massachusetts,Eastham,,new-england,northeast-us,41.83011,-69.97391
-5,5,North America / Greenland,North America,Greenland,,,,europe,europe,75.73314,-41.10292
-6,6,North America / United States / Maine / Kennebunk,North America,United States,Maine,Kennebunk,,new-england,northeast-us,43.38328,-70.54277
-7,7,Europe / Norway / Finnmark Fylke / Loppa / Finnmark,Europe,Norway,Finnmark Fylke,Loppa,Finnmark,europe,europe,63.990556,12.307778
-8,8,North America / Canada / Prince Edward Island / Mount Stewart,North America,Canada,Prince Edward Island,Mount Stewart,,east-canada,east-canada,46.36547,-62.86694
-9,9,Europe / Norway / Nordland Fylke / Bodo,Europe,Norway,Nordland Fylke,Bodo,,europe,europe,63.990556,12.307778
-10,10,Europe / Norway / Finnmark Fylke / Nordkap,Europe,Norway,Finnmark Fylke,Nordkap,,europe,europe,63.990556,12.307778
-11,11,North America / Canada / Nova Scotia / Kentville,North America,Canada,Nova Scotia,Kentville,,east-canada,east-canada,45.07701,-64.49472
-12,12,"Europe / Netherlands / Castricum, Noord-Holland",Europe,Netherlands,"Castricum, Noord-Holland",,,europe,europe,52.31,5.46
-13,13,Europe / Norway / Troms Fylke / Tromso / Troms,Europe,Norway,Troms Fylke,Tromso,Troms,europe,europe,63.990556,12.307778
-14,14,North America / Canada / Prince Edward Island / Sturgeon,North America,Canada,Prince Edward Island,Sturgeon,,east-canada,east-canada,46.11641,-62.53763
-15,15,North America / United States / Massachusetts / Nantucket / Nantucket,North America,United States,Massachusetts,Nantucket,Nantucket,new-england,northeast-us,41.28523,-70.09914
-16,16,Europe / Belgium / Provincie West-Vlaanderen / Middelkerke,Europe,Belgium,Provincie West-Vlaanderen,Middelkerke,,europe,europe,50.640168,4.666682
-17,17,Europe / Germany / Lower Saxony,Europe,Germany,Lower Saxony,,,europe,europe,51.163375,10.447683
-18,18,North America / Canada / Prince Edward Island / Stratford,North America,Canada,Prince Edward Island,Stratford,,east-canada,east-canada,46.21399,-63.0863
-19,19,Europe / Norway / Finnmark Fylke / Vardo / Finnmark,Europe,Norway,Finnmark Fylke,Vardo,Finnmark,europe,europe,63.990556,12.307778
-20,20,North America / Canada / Newfoundland and Labrador / Gull Island,North America,Canada,Newfoundland and Labrador,Gull Island,,east-canada,east-canada,47.66774,-58.29991
-21,21,Europe / Iceland,Europe,Iceland,,,,europe,europe,65,-18
-22,22,North America / Canada / Nova Scotia / Sable Island,North America,Canada,Nova Scotia,Sable Island,,east-canada,east-canada,43.93253,-59.91709
-23,23,North America / Canada / Nova Scotia / Bear River,North America,Canada,Nova Scotia,Bear River,,east-canada,east-canada,44.71771,-65.49494
-24,24,North America / Canada / Nova Scotia / Meteghan,North America,Canada,Nova Scotia,Meteghan,,east-canada,east-canada,44.18839,-66.16167
-25,25,North America / Canada / Prince Edward Island / Darnley,North America,Canada,Prince Edward Island,Darnley,,east-canada,east-canada,46.54107,-63.63407
-26,26,North America / Canada / Nova Scotia / Grand Pr?,North America,Canada,Nova Scotia,Grand Pr?,,east-canada,east-canada,45.1045,-64.30649
-27,27,North America / Canada / Prince Edward Island / Richmond,North America,Canada,Prince Edward Island,Richmond,,east-canada,east-canada,46.50784,-63.99134
-28,28,North America / United States / Massachusetts / Plymouth,North America,United States,Massachusetts,Plymouth,,new-england,northeast-us,41.95407,-70.65879
-29,29,North America / Canada / Nova Scotia / Meteghan Centre,North America,Canada,Nova Scotia,Meteghan Centre,,east-canada,east-canada,44.19661,-66.14781
-30,30,North America / Canada / Prince Edward Island / Albany,North America,Canada,Prince Edward Island,Albany,,east-canada,east-canada,46.28612,-63.64384
-31,31,North America / Canada / Newfoundland and Labrador / Atlantic Ocean,North America,Canada,Newfoundland and Labrador,Atlantic Ocean,,east-canada,east-canada,47.11687,-52.0238
-32,32,Europe / Norway / Troms Fylke / Tromso,Europe,Norway,Troms Fylke,Tromso,,europe,europe,63.990556,12.307778
-33,33,Europe / United Kingdom / England,Europe,United Kingdom,England,,,europe,europe,54.00366,-2.547855
-34,34,Europe / Norway / Finnmark Fylke / Vadso,Europe,Norway,Finnmark Fylke,Vadso,,europe,europe,63.990556,12.307778
-35,35,Europe / Norway / Nordland Fylke / Somna,Europe,Norway,Nordland Fylke,Somna,,europe,europe,63.990556,12.307778
-36,36,Europe / Norway / Finnmark Fylke / Vadso / Finnmark,Europe,Norway,Finnmark Fylke,Vadso,Finnmark,europe,europe,63.990556,12.307778
-37,37,Europe / Norway / Troms Fylke / Storfjord / Skibotn,Europe,Norway,Troms Fylke,Storfjord,Skibotn,europe,europe,63.990556,12.307778
-38,38,North America / Canada / Prince Edward Island / Murray Harbour,North America,Canada,Prince Edward Island,Murray Harbour,,east-canada,east-canada,46.00473,-62.52224
-39,39,Europe / Norway / Finnmark Fylke / Finnmark,Europe,Norway,Finnmark Fylke,Finnmark,,europe,europe,63.990556,12.307778
-40,40,North America / United States,North America,United States,,,,unknown,unknown,unknown,unknown
-41,41,Europe / Norway / Rogaland Fylke / Klepp,Europe,Norway,Rogaland Fylke,Klepp,,europe,europe,63.990556,12.307778
-42,42,North America / United States / Washington,North America,United States,Washington,,,pacific-northwest,northwest-us,47.3822,-120.4505
-43,43,Europe / Norway / Nordland Fylke / Meloy / Reipa,Europe,Norway,Nordland Fylke,Meloy,Reipa,europe,europe,63.990556,12.307778
-44,44,North America / Canada / Prince Edward Island / Charlottetown,North America,Canada,Prince Edward Island,Charlottetown,,east-canada,east-canada,46.23544,-63.12943
-45,45,Asia / Japan / Hokkaido,Asia,Japan,Hokkaido,,,asia,asia,36,138
-46,46,Europe / Netherlands / Provincie Friesland,Europe,Netherlands,Provincie Friesland,,,europe,europe,52.31,5.46
-47,47,North America / Canada / Nova Scotia / Sydney,North America,Canada,Nova Scotia,Sydney,,east-canada,east-canada,46.13494,-60.1915
-48,48,North America / Canada / Nova Scotia / Upper Nappan,North America,Canada,Nova Scotia,Upper Nappan,,east-canada,east-canada,45.78335,-64.19651
-49,49,Europe / Norway / Finnmark Fylke / Batsfjord,Europe,Norway,Finnmark Fylke,Batsfjord,,europe,europe,63.990556,12.307778
-50,50,North America / United States / Massachusetts / Nantucket,North America,United States,Massachusetts,Nantucket,,new-england,northeast-us,41.28523,-70.09914
-51,51,Europe / Norway / Sor-Trondelag Fylke / Hitra / Sor-Trondalag,Europe,Norway,Sor-Trondelag Fylke,Hitra,Sor-Trondalag,europe,europe,63.990556,12.307778
-52,52,Europe / Russian Federation / Republic of Kalmykia,Europe,Russian Federation,Republic of Kalmykia,,,europe,europe,66.755,93.85
-53,53,Europe / Russian Federation,Europe,Russian Federation,,,,europe,europe,66.755,93.85
-54,54,Europe / United Kingdom / Scotland,Europe,United Kingdom,Scotland,,,europe,europe,54.00366,-2.547855
-55,55,Asia / Japan / Hokkaido / Sapporo,Asia,Japan,Hokkaido,Sapporo,,asia,asia,36,138
-56,56,Europe / Norway / Nordland Fylke / Oksnes,Europe,Norway,Nordland Fylke,Oksnes,,europe,europe,63.990556,12.307778
-57,57,North America / Canada / Nova Scotia / Wolfville,North America,Canada,Nova Scotia,Wolfville,,east-canada,east-canada,45.09174,-64.35927
-58,58,Europe / Norway / Sogn og Fjordane Fylke / Hoyanger Herad,Europe,Norway,Sogn og Fjordane Fylke,Hoyanger Herad,,europe,europe,63.990556,12.307778
-59,59,"Europe / Netherlands / Provincie Noord-Holland / Texel, Ferry Harbour",Europe,Netherlands,Provincie Noord-Holland,"Texel, Ferry Harbour",,europe,europe,52.31,5.46
-60,60,Europe / Norway / Sogn og Fjordane Fylke / Askvoll,Europe,Norway,Sogn og Fjordane Fylke,Askvoll,,europe,europe,63.990556,12.307778
-61,61,North America / Canada / Newfoundland and Labrador / Mobile,North America,Canada,Newfoundland and Labrador,Mobile,,east-canada,east-canada,47.24489,-52.84102
-62,62,North America / United States / Massachusetts / Hudson,North America,United States,Massachusetts,Hudson,,new-england,northeast-us,42.39113,-71.5677
-63,63,North America / Canada / Nova Scotia / Eastern Passage,North America,Canada,Nova Scotia,Eastern Passage,,east-canada,east-canada,44.61168,-63.4939
-64,64,North America / Canada / Nova Scotia / Fergusons Cove,North America,Canada,Nova Scotia,Fergusons Cove,,east-canada,east-canada,44.60118,-63.56125
-65,65,North America / Canada / Prince Edward Island / Cornwall,North America,Canada,Prince Edward Island,Cornwall,,east-canada,east-canada,46.22964,-63.21797
-66,66,"Europe / Netherlands / Provincie Noord-Holland / Texel, Paal 6",Europe,Netherlands,Provincie Noord-Holland,"Texel, Paal 6",,europe,europe,52.31,5.46
-67,67,North America / United States / Massachusetts / Essex / Lawrence,North America,United States,Massachusetts,Essex,Lawrence,new-england,northeast-us,42.70849,-71.15999
-68,68,Europe / Finland,Europe,Finland,,,,europe,europe,64.83949,25.57046
-69,69,Europe / Germany,Europe,Germany,,,,europe,europe,51.163375,10.447683
-70,70,North America / Canada / Ontario / Picton,North America,Canada,Ontario,Picton,,east-canada,east-canada,44.00862,-77.1391
-71,71,North America / Canada / Quebec / Saint-Antoine-de-Tilly,North America,Canada,Quebec,Saint-Antoine-de-Tilly,,east-canada,east-canada,46.66269,-71.57359
-72,72,Europe / Norway / More og Romsdal Fylke / Smola / Hustadvika,Europe,Norway,More og Romsdal Fylke,Smola,Hustadvika,europe,europe,63.990556,12.307778
-73,73,North America / Canada / Newfoundland and Labrador / Point Lance,North America,Canada,Newfoundland and Labrador,Point Lance,,east-canada,east-canada,46.82977722,-54.09332426
-74,74,North America / Canada / Prince Edward Island / Meadowbank,North America,Canada,Prince Edward Island,Meadowbank,,east-canada,east-canada,46.20521,-63.22507
-75,75,North America / Canada / Nunavut / Resolute Bay,North America,Canada,Nunavut,Resolute Bay,,north-canada,north-canada,74.67751,-94.84636
-76,76,"Europe / Netherlands / Provincie Noord-Holland / Texel, Paal 15",Europe,Netherlands,Provincie Noord-Holland,"Texel, Paal 15",,europe,europe,52.31,5.46
-77,77,North America / Canada / Nova Scotia / Port Williams,North America,Canada,Nova Scotia,Port Williams,,east-canada,east-canada,45.09795,-64.41016
-78,78,North America / Canada / Nova Scotia / Port Caledonia,North America,Canada,Nova Scotia,Port Caledonia,,east-canada,east-canada,46.18228,-59.90178
-79,79,Europe / Norway / Troms Fylke / Kvaenangen,Europe,Norway,Troms Fylke,Kvaenangen,,europe,europe,63.990556,12.307778
-80,80,North America / United States / Massachusetts / South Orleans,North America,United States,Massachusetts,South Orleans,,new-england,northeast-us,41.75067,-69.99113
-81,81,Europe / Norway / Rogaland Fylke / Stavanger,Europe,Norway,Rogaland Fylke,Stavanger,,europe,europe,63.990556,12.307778
-82,82,North America / Canada / Prince Edward Island / Sea View,North America,Canada,Prince Edward Island,Sea View,,east-canada,east-canada,46.53924,-63.59415
-83,83,Europe / Svalbard and Jan Mayen,Europe,Svalbard and Jan Mayen,,,,europe,europe,78.6352,21.9939
-84,84,Asia / Japan / Iwate,Asia,Japan,Iwate,,,asia,asia,36,138
-85,85,Europe / Norway / Troms Fylke / Senja,Europe,Norway,Troms Fylke,Senja,,europe,europe,63.990556,12.307778
-86,86,Europe / Netherlands / Provincie Noord-Holland,Europe,Netherlands,Provincie Noord-Holland,,,europe,europe,52.31,5.46
-87,87,North America / Canada / Newfoundland and Labrador / Middle Cove Beach,North America,Canada,Newfoundland and Labrador,Middle Cove Beach,,east-canada,east-canada,47.64924,-52.70176
-88,88,North America / Canada / Newfoundland and Labrador / Upper Gullies,North America,Canada,Newfoundland and Labrador,Upper Gullies,,east-canada,east-canada,47.48393,-53.04571
-89,89,North America / Canada / Newfoundland and Labrador / Wings Point,North America,Canada,Newfoundland and Labrador,Wings Point,,east-canada,east-canada,49.32977,-54.48269
-90,90,Europe / Svalbard and Jan Mayen / Svalbard,Europe,Svalbard and Jan Mayen,Svalbard,,,europe,europe,78.6352,21.9939
-91,91,Europe / Norway / Finnmark Fylke / Hasvik,Europe,Norway,Finnmark Fylke,Hasvik,,europe,europe,63.990556,12.307778
-92,92,North America / Canada / Newfoundland and Labrador / St. John's,North America,Canada,Newfoundland and Labrador,St. John's,,east-canada,east-canada,47.48329001,-52.79666451
-93,93,North America / Canada / Nova Scotia / Halifax,North America,Canada,Nova Scotia,Halifax,,east-canada,east-canada,44.6456,-63.57619
-94,94,Asia / Japan / Iwate / Ofunato,Asia,Japan,Iwate,Ofunato,,asia,asia,36,138
-95,95,North America / Canada / Prince Edward Island / Summerside,North America,Canada,Prince Edward Island,Summerside,,east-canada,east-canada,46.39316,-63.79027
-96,96,North America / Canada / Nova Scotia / Middle West Pubnico,North America,Canada,Nova Scotia,Middle West Pubnico,,east-canada,east-canada,43.64915,-65.80345
-97,97,North America / Canada / New Brunswick / Saint John,North America,Canada,New Brunswick,Saint John,,east-canada,east-canada,45.26668186,-66.06561233
-1,,North America / United States / Massachusetts / Muskeget,North America,United States,Massachusetts,Muskeget,,new-england,northeast-us,41.335278,-70.304167
-11,,North America / United States / Massachusetts / Dennis,North America,United States,Massachusetts,Dennis,,new-england,northeast-us,41.735278,-70.194444
-32,,North America / United States / Massachusetts / New Bedford,North America,United States,Massachusetts,New Bedford,,new-england,northeast-us,41.636111,-70.934722
-43,,North America / United States / Alaska,North America,United States,Alaska,,,,northwest-us,64.061,-152.2307
-46,,North America / United States / Ohio,North America,United States,Ohio,,,,northeast-us,40.2863,-82.7938
-51,,"Europe / Svalbard and Jan Mayen / Svalbard, Barentsburg",Europe,Svalbard and Jan Mayen,Svalbard,,,europe,europe,78.6352,21.9939
-67,,North America / United States / Massachusetts,North America,United States,Massachusetts,,,new-england,northeast-us,42.2596,-71.8083
-71,,North America / United States / Washington ,North America,United States,Washington,,,pacific-northwest,northwest-us,47.3822,-120.4505
-99,,Europe / Svalbard and Jan Mayen / Jan Mayen,Europe,Svalbard and Jan Mayen,Jan Mayen,,,europe,europe,78.6352,21.9939
-102,,Europe / Svalbard and Jan Mayen / Vindodden,Europe,Svalbard and Jan Mayen,Vindodden,,,europe,europe,78.6352,21.9939
-107,,Europe / Denmark / Region Nordjylland,Europe,Denmark,Region Nordjylland,,,europe,europe,55.95627,10.07469
-108,,North America / United States / Connecticut,North America,United States,Connecticut,,,new-england,northeast-us,41.622,-72.7272
-110,,North America / United States / Massachusetts / North Eastham,North America,United States,Massachusetts,North Eastham,,new-england,northeast-us,41.851389,-70
+,Unnamed: 0,full_location,continent,country,state/province,county/town,municipality,discrete-phylo,new-discrete-phylo,latitude,longitude,latlong_type
+0,0,North America / Canada / Nova Scotia / Country Island,North America,Canada,Nova Scotia,Country Island,,east-canada,east-canada,45.1015,-61.54304,county_town
+1,1,Europe / Norway / Sor-Trondelag Fylke / Froya,Europe,Norway,Sor-Trondelag Fylke,Froya,,europe,europe,63.990556,12.307778,country
+2,2,North America / Canada / Ontario / Hawkestone,North America,Canada,Ontario,Hawkestone,,east-canada,east-canada,44.50049,-79.47048,county_town
+3,3,Europe / Norway / Finnmark Fylke / Vardo,Europe,Norway,Finnmark Fylke,Vardo,,europe,europe,63.990556,12.307778,country
+4,4,North America / United States / Massachusetts / Eastham,North America,United States,Massachusetts,Eastham,,new-england,northeast-us,41.83011,-69.97391,county_town
+5,5,North America / Greenland,North America,Greenland,,,,europe,europe,75.73314,-41.10292,country
+6,6,North America / United States / Maine / Kennebunk,North America,United States,Maine,Kennebunk,,new-england,northeast-us,43.38328,-70.54277,county_town
+7,7,Europe / Norway / Finnmark Fylke / Loppa / Finnmark,Europe,Norway,Finnmark Fylke,Loppa,Finnmark,europe,europe,63.990556,12.307778,country
+8,8,North America / Canada / Prince Edward Island / Mount Stewart,North America,Canada,Prince Edward Island,Mount Stewart,,east-canada,east-canada,46.36547,-62.86694,county_town
+9,9,Europe / Norway / Nordland Fylke / Bodo,Europe,Norway,Nordland Fylke,Bodo,,europe,europe,63.990556,12.307778,country
+10,10,Europe / Norway / Finnmark Fylke / Nordkap,Europe,Norway,Finnmark Fylke,Nordkap,,europe,europe,63.990556,12.307778,country
+11,11,North America / Canada / Nova Scotia / Kentville,North America,Canada,Nova Scotia,Kentville,,east-canada,east-canada,45.07701,-64.49472,county_town
+12,12,"Europe / Netherlands / Castricum, Noord-Holland",Europe,Netherlands,"Castricum, Noord-Holland",,,europe,europe,52.31,5.46,country
+13,13,Europe / Norway / Troms Fylke / Tromso / Troms,Europe,Norway,Troms Fylke,Tromso,Troms,europe,europe,63.990556,12.307778,country
+14,14,North America / Canada / Prince Edward Island / Sturgeon,North America,Canada,Prince Edward Island,Sturgeon,,east-canada,east-canada,46.11641,-62.53763,county_town
+15,15,North America / United States / Massachusetts / Nantucket / Nantucket,North America,United States,Massachusetts,Nantucket,Nantucket,new-england,northeast-us,41.28523,-70.09914,county_town
+16,16,Europe / Belgium / Provincie West-Vlaanderen / Middelkerke,Europe,Belgium,Provincie West-Vlaanderen,Middelkerke,,europe,europe,50.640168,4.666682,country
+17,17,Europe / Germany / Lower Saxony,Europe,Germany,Lower Saxony,,,europe,europe,51.163375,10.447683,country
+18,18,North America / Canada / Prince Edward Island / Stratford,North America,Canada,Prince Edward Island,Stratford,,east-canada,east-canada,46.21399,-63.0863,county_town
+19,19,Europe / Norway / Finnmark Fylke / Vardo / Finnmark,Europe,Norway,Finnmark Fylke,Vardo,Finnmark,europe,europe,63.990556,12.307778,country
+20,20,North America / Canada / Newfoundland and Labrador / Gull Island,North America,Canada,Newfoundland and Labrador,Gull Island,,east-canada,east-canada,47.66774,-58.29991,county_town
+21,21,Europe / Iceland,Europe,Iceland,,,,europe,europe,65,-18,country
+22,22,North America / Canada / Nova Scotia / Sable Island,North America,Canada,Nova Scotia,Sable Island,,east-canada,east-canada,43.93253,-59.91709,county_town
+23,23,North America / Canada / Nova Scotia / Bear River,North America,Canada,Nova Scotia,Bear River,,east-canada,east-canada,44.71771,-65.49494,county_town
+24,24,North America / Canada / Nova Scotia / Meteghan,North America,Canada,Nova Scotia,Meteghan,,east-canada,east-canada,44.18839,-66.16167,county_town
+25,25,North America / Canada / Prince Edward Island / Darnley,North America,Canada,Prince Edward Island,Darnley,,east-canada,east-canada,46.54107,-63.63407,county_town
+26,26,North America / Canada / Nova Scotia / Grand Pr?,North America,Canada,Nova Scotia,Grand Pr?,,east-canada,east-canada,45.1045,-64.30649,county_town
+27,27,North America / Canada / Prince Edward Island / Richmond,North America,Canada,Prince Edward Island,Richmond,,east-canada,east-canada,46.50784,-63.99134,county_town
+28,28,North America / United States / Massachusetts / Plymouth,North America,United States,Massachusetts,Plymouth,,new-england,northeast-us,41.95407,-70.65879,county_town
+29,29,North America / Canada / Nova Scotia / Meteghan Centre,North America,Canada,Nova Scotia,Meteghan Centre,,east-canada,east-canada,44.19661,-66.14781,county_town
+30,30,North America / Canada / Prince Edward Island / Albany,North America,Canada,Prince Edward Island,Albany,,east-canada,east-canada,46.28612,-63.64384,county_town
+31,31,North America / Canada / Newfoundland and Labrador / Atlantic Ocean,North America,Canada,Newfoundland and Labrador,Atlantic Ocean,,east-canada,east-canada,47.11687,-52.0238,county_town
+32,32,Europe / Norway / Troms Fylke / Tromso,Europe,Norway,Troms Fylke,Tromso,,europe,europe,63.990556,12.307778,country
+33,33,Europe / United Kingdom / England,Europe,United Kingdom,England,,,europe,europe,54.00366,-2.547855,country
+34,34,Europe / Norway / Finnmark Fylke / Vadso,Europe,Norway,Finnmark Fylke,Vadso,,europe,europe,63.990556,12.307778,country
+35,35,Europe / Norway / Nordland Fylke / Somna,Europe,Norway,Nordland Fylke,Somna,,europe,europe,63.990556,12.307778,country
+36,36,Europe / Norway / Finnmark Fylke / Vadso / Finnmark,Europe,Norway,Finnmark Fylke,Vadso,Finnmark,europe,europe,63.990556,12.307778,country
+37,37,Europe / Norway / Troms Fylke / Storfjord / Skibotn,Europe,Norway,Troms Fylke,Storfjord,Skibotn,europe,europe,63.990556,12.307778,country
+38,38,North America / Canada / Prince Edward Island / Murray Harbour,North America,Canada,Prince Edward Island,Murray Harbour,,east-canada,east-canada,46.00473,-62.52224,county_town
+39,39,Europe / Norway / Finnmark Fylke / Finnmark,Europe,Norway,Finnmark Fylke,Finnmark,,europe,europe,63.990556,12.307778,country
+40,40,North America / United States,North America,United States,,,,unknown,unknown,unknown,unknown,unknown
+41,41,Europe / Norway / Rogaland Fylke / Klepp,Europe,Norway,Rogaland Fylke,Klepp,,europe,europe,63.990556,12.307778,country
+42,42,North America / United States / Washington,North America,United States,Washington,,,pacific-northwest,northwest-us,47.3822,-120.4505,state_province
+43,43,Europe / Norway / Nordland Fylke / Meloy / Reipa,Europe,Norway,Nordland Fylke,Meloy,Reipa,europe,europe,63.990556,12.307778,country
+44,44,North America / Canada / Prince Edward Island / Charlottetown,North America,Canada,Prince Edward Island,Charlottetown,,east-canada,east-canada,46.23544,-63.12943,county_town
+45,45,Asia / Japan / Hokkaido,Asia,Japan,Hokkaido,,,asia,asia,36,138,country
+46,46,Europe / Netherlands / Provincie Friesland,Europe,Netherlands,Provincie Friesland,,,europe,europe,52.31,5.46,country
+47,47,North America / Canada / Nova Scotia / Sydney,North America,Canada,Nova Scotia,Sydney,,east-canada,east-canada,46.13494,-60.1915,county_town
+48,48,North America / Canada / Nova Scotia / Upper Nappan,North America,Canada,Nova Scotia,Upper Nappan,,east-canada,east-canada,45.78335,-64.19651,county_town
+49,49,Europe / Norway / Finnmark Fylke / Batsfjord,Europe,Norway,Finnmark Fylke,Batsfjord,,europe,europe,63.990556,12.307778,country
+50,50,North America / United States / Massachusetts / Nantucket,North America,United States,Massachusetts,Nantucket,,new-england,northeast-us,41.28523,-70.09914,county_town
+51,51,Europe / Norway / Sor-Trondelag Fylke / Hitra / Sor-Trondalag,Europe,Norway,Sor-Trondelag Fylke,Hitra,Sor-Trondalag,europe,europe,63.990556,12.307778,country
+52,52,Europe / Russian Federation / Republic of Kalmykia,Europe,Russian Federation,Republic of Kalmykia,,,europe,europe,66.755,93.85,country
+53,53,Europe / Russian Federation,Europe,Russian Federation,,,,europe,europe,66.755,93.85,country
+54,54,Europe / United Kingdom / Scotland,Europe,United Kingdom,Scotland,,,europe,europe,54.00366,-2.547855,country
+55,55,Asia / Japan / Hokkaido / Sapporo,Asia,Japan,Hokkaido,Sapporo,,asia,asia,36,138,country
+56,56,Europe / Norway / Nordland Fylke / Oksnes,Europe,Norway,Nordland Fylke,Oksnes,,europe,europe,63.990556,12.307778,country
+57,57,North America / Canada / Nova Scotia / Wolfville,North America,Canada,Nova Scotia,Wolfville,,east-canada,east-canada,45.09174,-64.35927,county_town
+58,58,Europe / Norway / Sogn og Fjordane Fylke / Hoyanger Herad,Europe,Norway,Sogn og Fjordane Fylke,Hoyanger Herad,,europe,europe,63.990556,12.307778,country
+59,59,"Europe / Netherlands / Provincie Noord-Holland / Texel, Ferry Harbour",Europe,Netherlands,Provincie Noord-Holland,"Texel, Ferry Harbour",,europe,europe,52.31,5.46,country
+60,60,Europe / Norway / Sogn og Fjordane Fylke / Askvoll,Europe,Norway,Sogn og Fjordane Fylke,Askvoll,,europe,europe,63.990556,12.307778,country
+61,61,North America / Canada / Newfoundland and Labrador / Mobile,North America,Canada,Newfoundland and Labrador,Mobile,,east-canada,east-canada,47.24489,-52.84102,county_town
+62,62,North America / United States / Massachusetts / Hudson,North America,United States,Massachusetts,Hudson,,new-england,northeast-us,42.39113,-71.5677,county_town
+63,63,North America / Canada / Nova Scotia / Eastern Passage,North America,Canada,Nova Scotia,Eastern Passage,,east-canada,east-canada,44.61168,-63.4939,county_town
+64,64,North America / Canada / Nova Scotia / Fergusons Cove,North America,Canada,Nova Scotia,Fergusons Cove,,east-canada,east-canada,44.60118,-63.56125,county_town
+65,65,North America / Canada / Prince Edward Island / Cornwall,North America,Canada,Prince Edward Island,Cornwall,,east-canada,east-canada,46.22964,-63.21797,county_town
+66,66,"Europe / Netherlands / Provincie Noord-Holland / Texel, Paal 6",Europe,Netherlands,Provincie Noord-Holland,"Texel, Paal 6",,europe,europe,52.31,5.46,country
+67,67,North America / United States / Massachusetts / Essex / Lawrence,North America,United States,Massachusetts,Essex,Lawrence,new-england,northeast-us,42.70849,-71.15999,county_town
+68,68,Europe / Finland,Europe,Finland,,,,europe,europe,64.83949,25.57046,country
+69,69,Europe / Germany,Europe,Germany,,,,europe,europe,51.163375,10.447683,country
+70,70,North America / Canada / Ontario / Picton,North America,Canada,Ontario,Picton,,east-canada,east-canada,44.00862,-77.1391,county_town
+71,71,North America / Canada / Quebec / Saint-Antoine-de-Tilly,North America,Canada,Quebec,Saint-Antoine-de-Tilly,,east-canada,east-canada,46.66269,-71.57359,county_town
+72,72,Europe / Norway / More og Romsdal Fylke / Smola / Hustadvika,Europe,Norway,More og Romsdal Fylke,Smola,Hustadvika,europe,europe,63.990556,12.307778,country
+73,73,North America / Canada / Newfoundland and Labrador / Point Lance,North America,Canada,Newfoundland and Labrador,Point Lance,,east-canada,east-canada,46.82977722,-54.09332426,county_town
+74,74,North America / Canada / Prince Edward Island / Meadowbank,North America,Canada,Prince Edward Island,Meadowbank,,east-canada,east-canada,46.20521,-63.22507,county_town
+75,75,North America / Canada / Nunavut / Resolute Bay,North America,Canada,Nunavut,Resolute Bay,,north-canada,north-canada,74.67751,-94.84636,county_town
+76,76,"Europe / Netherlands / Provincie Noord-Holland / Texel, Paal 15",Europe,Netherlands,Provincie Noord-Holland,"Texel, Paal 15",,europe,europe,52.31,5.46,country
+77,77,North America / Canada / Nova Scotia / Port Williams,North America,Canada,Nova Scotia,Port Williams,,east-canada,east-canada,45.09795,-64.41016,county_town
+78,78,North America / Canada / Nova Scotia / Port Caledonia,North America,Canada,Nova Scotia,Port Caledonia,,east-canada,east-canada,46.18228,-59.90178,county_town
+79,79,Europe / Norway / Troms Fylke / Kvaenangen,Europe,Norway,Troms Fylke,Kvaenangen,,europe,europe,63.990556,12.307778,country
+80,80,North America / United States / Massachusetts / South Orleans,North America,United States,Massachusetts,South Orleans,,new-england,northeast-us,41.75067,-69.99113,county_town
+81,81,Europe / Norway / Rogaland Fylke / Stavanger,Europe,Norway,Rogaland Fylke,Stavanger,,europe,europe,63.990556,12.307778,country
+82,82,North America / Canada / Prince Edward Island / Sea View,North America,Canada,Prince Edward Island,Sea View,,east-canada,east-canada,46.53924,-63.59415,county_town
+83,83,Europe / Svalbard and Jan Mayen,Europe,Svalbard and Jan Mayen,,,,europe,europe,78.6352,21.9939,country
+84,84,Asia / Japan / Iwate,Asia,Japan,Iwate,,,asia,asia,36,138,country
+85,85,Europe / Norway / Troms Fylke / Senja,Europe,Norway,Troms Fylke,Senja,,europe,europe,63.990556,12.307778,country
+86,86,Europe / Netherlands / Provincie Noord-Holland,Europe,Netherlands,Provincie Noord-Holland,,,europe,europe,52.31,5.46,country
+87,87,North America / Canada / Newfoundland and Labrador / Middle Cove Beach,North America,Canada,Newfoundland and Labrador,Middle Cove Beach,,east-canada,east-canada,47.64924,-52.70176,county_town
+88,88,North America / Canada / Newfoundland and Labrador / Upper Gullies,North America,Canada,Newfoundland and Labrador,Upper Gullies,,east-canada,east-canada,47.48393,-53.04571,county_town
+89,89,North America / Canada / Newfoundland and Labrador / Wings Point,North America,Canada,Newfoundland and Labrador,Wings Point,,east-canada,east-canada,49.32977,-54.48269,county_town
+90,90,Europe / Svalbard and Jan Mayen / Svalbard,Europe,Svalbard and Jan Mayen,Svalbard,,,europe,europe,78.6352,21.9939,country
+91,91,Europe / Norway / Finnmark Fylke / Hasvik,Europe,Norway,Finnmark Fylke,Hasvik,,europe,europe,63.990556,12.307778,country
+92,92,North America / Canada / Newfoundland and Labrador / St. John's,North America,Canada,Newfoundland and Labrador,St. John's,,east-canada,east-canada,47.48329001,-52.79666451,county_town
+93,93,North America / Canada / Nova Scotia / Halifax,North America,Canada,Nova Scotia,Halifax,,east-canada,east-canada,44.6456,-63.57619,county_town
+94,94,Asia / Japan / Iwate / Ofunato,Asia,Japan,Iwate,Ofunato,,asia,asia,36,138,country
+95,95,North America / Canada / Prince Edward Island / Summerside,North America,Canada,Prince Edward Island,Summerside,,east-canada,east-canada,46.39316,-63.79027,county_town
+96,96,North America / Canada / Nova Scotia / Middle West Pubnico,North America,Canada,Nova Scotia,Middle West Pubnico,,east-canada,east-canada,43.64915,-65.80345,county_town
+97,97,North America / Canada / New Brunswick / Saint John,North America,Canada,New Brunswick,Saint John,,east-canada,east-canada,45.26668186,-66.06561233,county_town
+1,,North America / United States / Massachusetts / Muskeget,North America,United States,Massachusetts,Muskeget,,new-england,northeast-us,41.335278,-70.304167,county_town
+11,,North America / United States / Massachusetts / Dennis,North America,United States,Massachusetts,Dennis,,new-england,northeast-us,41.735278,-70.194444,county_town
+32,,North America / United States / Massachusetts / New Bedford,North America,United States,Massachusetts,New Bedford,,new-england,northeast-us,41.636111,-70.934722,county_town
+43,,North America / United States / Alaska,North America,United States,Alaska,,,,northwest-us,64.061,-152.2307,state_province
+46,,North America / United States / Ohio,North America,United States,Ohio,,,,northeast-us,40.2863,-82.7938,state_province
+51,,"Europe / Svalbard and Jan Mayen / Svalbard, Barentsburg",Europe,Svalbard and Jan Mayen,Svalbard,,,europe,europe,78.6352,21.9939,country
+67,,North America / United States / Massachusetts,North America,United States,Massachusetts,,,new-england,northeast-us,42.2596,-71.8083,state_province
+71,,North America / United States / Washington ,North America,United States,Washington,,,pacific-northwest,northwest-us,47.3822,-120.4505,state_province
+99,,Europe / Svalbard and Jan Mayen / Jan Mayen,Europe,Svalbard and Jan Mayen,Jan Mayen,,,europe,europe,78.6352,21.9939,country
+102,,Europe / Svalbard and Jan Mayen / Vindodden,Europe,Svalbard and Jan Mayen,Vindodden,,,europe,europe,78.6352,21.9939,country
+107,,Europe / Denmark / Region Nordjylland,Europe,Denmark,Region Nordjylland,,,europe,europe,55.95627,10.07469,country
+108,,North America / United States / Connecticut,North America,United States,Connecticut,,,new-england,northeast-us,41.622,-72.7272,state_province
+110,,North America / United States / Massachusetts / North Eastham,North America,United States,Massachusetts,North Eastham,,new-england,northeast-us,41.851389,-70,county_town
