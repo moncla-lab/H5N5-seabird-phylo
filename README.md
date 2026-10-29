@@ -2,12 +2,12 @@
 
 #### Clara R. Malekshahi*<sup>1</sup>, Nicole St. Clair Knobloch<sup>1</sup>, Alvin Crespo-Bellido<sup>3</sup>, Alexa Simulynas<sup>2</sup>, Stephanie Goya<sup>4</sup>, Leigh Papalambros<sup>5</sup>, William J. Fitzsimmons<sup>5</sup>, Alexander L. Greninger<sup>4</sup>, Adam S. Lauring<sup>5</sup>, Jonathan Runstadler<sup>2</sup>, Martha I. Nelson<sup>3</sup>, Wendy Puryear<sup>2</sup>, Louise H. Moncla<sup>6</sup>
 
-<sup>1</sup>The University of Pennsylvania, Perelman School of Medicine, Philadelphia, Pennsylvania, USA
-<sup>2</sup>Cummings School of Veterinary Medicine at Tufts University, Grafton, MA, USA
-<sup>3</sup>Division of Intramural Research, National Library of Medicine, National Institutes of Health, Bethesda, MD, USA
-<sup>4</sup>Division of Infectious Disease Diagnostics, Department of Laboratory Medicine and Pathology, University of Washington Medical Center, Seattle, WA, USA
-<sup>5</sup>Division of Infectious Diseases, Department of Internal Medicine, University of Michigan, Ann Arbor, MI, USA
-<sup>6</sup>The University of Pennsylvania, School of Veterinary Medicine, Department of Pathobiology, Philadelphia, PA, USA
+<sup>1</sup>The University of Pennsylvania, Perelman School of Medicine, Philadelphia, Pennsylvania, USA\
+<sup>2</sup>Cummings School of Veterinary Medicine at Tufts University, Grafton, MA, USA\
+<sup>3</sup>Division of Intramural Research, National Library of Medicine, National Institutes of Health, Bethesda, MD, USA\
+<sup>4</sup>Division of Infectious Disease Diagnostics, Department of Laboratory Medicine and Pathology, University of Washington Medical Center, Seattle, WA, USA\
+<sup>5</sup>Division of Infectious Diseases, Department of Internal Medicine, University of Michigan, Ann Arbor, MI, USA\
+<sup>6</sup>The University of Pennsylvania, School of Veterinary Medicine, Department of Pathobiology, Philadelphia, PA, USA\
 
 
 ## Abstract 
